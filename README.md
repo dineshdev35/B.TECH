@@ -1,2 +1,2 @@
 # B.TECH
-This is about documentation about departments
+This is about documentation of departments
